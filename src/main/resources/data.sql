@@ -1,0 +1,1 @@
+insert into PRODUCT_TYPES(id, TYPE) values (1, 'limpieza');
